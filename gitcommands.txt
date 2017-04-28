@@ -1,8 +1,4 @@
-    1  cd D:/
-    2  cd
-    3  cd F://
-    4  ls
-    5  cd Adobe Premiere Pro CS6 6.0.0 LS7 Multilanguage [ChingLiu]/
+    1 
     6  git --version
     7  exit
     8  git -- version

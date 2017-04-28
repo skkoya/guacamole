@@ -1,0 +1,56 @@
+    1  cd D:/
+    2  cd
+    3  cd F://
+    4  ls
+    5  cd Adobe Premiere Pro CS6 6.0.0 LS7 Multilanguage [ChingLiu]/
+    6  git --version
+    7  exit
+    8  git -- version
+    9  git --version
+   10  git path
+   11  git --path
+   12  exit
+   13  cd Desktop/data/
+   14  pwd
+   15  ls -l
+   16  mkdir guacamole2
+   17  cd guacamole2
+   18  ls -a
+   19  nano 2ndinstructions.txt
+   20  ls -a
+   21  git add 2ndinstructions.txt 
+   22  git init
+   23  ls -a
+   24  git add 2ndinstructions.txt 
+   25  git commit 
+   26  git status
+   27  git commit 
+   28  git add 2ndinstructions.txt 
+   29  git commit
+   30  git status
+   31  cd ..
+   32  pwd
+   33  ls -l
+   34  mkdir guacamole3
+   35  cd guacamole3
+   36  init git
+   37  git init
+   38  ls -a
+   39  nano something.txt
+   40  cat something.txt 
+   41  git add something.txt 
+   42  git commit
+   43  git status
+   44  ls -l
+   45  ls -a
+   46  ls .git
+   47  git status
+   48  PS1="$ "
+   49  clear
+   50  git status
+   51  cd ..
+   52  ls -a
+   53  cd guacamole
+   54  ls -l
+   55  git status
+   56  history > gitcommands.txt

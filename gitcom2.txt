@@ -1,0 +1,107 @@
+    1  cd D:/
+    2  cd
+    3  cd F://
+    4  ls
+    5  cd Adobe Premiere Pro CS6 6.0.0 LS7 Multilanguage [ChingLiu]/
+    6  git --version
+    7  exit
+    8  git -- version
+    9  git --version
+   10  git path
+   11  git --path
+   12  exit
+   13  cd Desktop/data/
+   14  pwd
+   15  ls -l
+   16  mkdir guacamole2
+   17  cd guacamole2
+   18  ls -a
+   19  nano 2ndinstructions.txt
+   20  ls -a
+   21  git add 2ndinstructions.txt 
+   22  git init
+   23  ls -a
+   24  git add 2ndinstructions.txt 
+   25  git commit 
+   26  git status
+   27  git commit 
+   28  git add 2ndinstructions.txt 
+   29  git commit
+   30  git status
+   31  cd ..
+   32  pwd
+   33  ls -l
+   34  mkdir guacamole3
+   35  cd guacamole3
+   36  init git
+   37  git init
+   38  ls -a
+   39  nano something.txt
+   40  cat something.txt 
+   41  git add something.txt 
+   42  git commit
+   43  git status
+   44  ls -l
+   45  ls -a
+   46  ls .git
+   47  git status
+   48  PS1="$ "
+   49  clear
+   50  git status
+   51  cd ..
+   52  ls -a
+   53  cd guacamole
+   54  ls -l
+   55  git status
+   56  history > gitcommands.txt
+   57  nano history.txt 
+   58  git status
+   59  git commit
+   60  git add gitcommands.txt 
+   61  git status
+   62  git add history.txt 
+   63  git stat
+   64  git status
+   65  git commit
+   66  git status
+   67  ls -l
+   68  nano gitcommands.txt 
+   69  ls -a
+   70  nano instructions.txt 
+   71  git status
+   72  git add -a
+   73  git diff
+   74  git add -A
+   75  git status
+   76  git commit
+   77  git status
+   78  nano instructions.txt 
+   79  git status
+   80  git commit
+   81  git add instructions.txt 
+   82  git status 
+   83  git commit
+   84  git status
+   85  git log
+   86  git dif 36d2a1873
+   87  git diff 36d2a1873
+   88  git log
+   89  git diff eff405
+   90  git diff eff405
+   91  git diff eff405e05
+   92  git status
+   93  git diff eff405e
+   94  git diff a96e
+   95  git log
+   96  git diff 9b0
+   97  git diff 9b06f
+   98  git reset 9b0
+   99  git reset 9b06f
+  100  git status
+  101  git HEAD
+  102  git checkout HEAD instructions.txt
+  103  git stat
+  104  git sta
+  105  git status 
+  106  ls -l
+  107  history > gitcom2.txt
